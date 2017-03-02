@@ -1,0 +1,19 @@
+a:hover{color:red;}
+table:hover{color:blue;}
+.bug{ color:green; }
+.table{
+  position: fixed;
+  margin:auto;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+}
+body{
+  background-image: url("http://home.aubg.edu/students/NAF140/project2/pictures/background2.jpg");
+}
+@media screen and (max-width: 480px){
+  body{
+    background-color:red; 
+        }
+      }
